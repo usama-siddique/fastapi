@@ -7,21 +7,21 @@ def read_root():
     data = {
         "Clue Carre - Downtown": {            
             "Mon": 28,
-            "Tue": 28,
+            "Tue": 27,
             "Wed": 28,
             "Thu": 28,
-            "Fri": 32,
-            "Sat": 32,
-            "Sun": 32
+            "Fri": 24,
+            "Sat": 28,
+            "Sun": 29
         },
         "Clue Carre - Metairie": {            
             "Mon": 21,
             "Tue": 21,
             "Wed": 21,
             "Thu": 21,
-            "Fri": 24,
-            "Sat": 24,
-            "Sun": 24
+            "Fri": 20,
+            "Sat": 20,
+            "Sun": 23
         }
     }
     return data
