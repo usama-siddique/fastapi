@@ -11,7 +11,7 @@ def read_root():
             "Wed": 28,
             "Thu": 28,
             "Fri": 31,
-            "Sat": 19,
+            "Sat": 11,
             "Sun": 29
         },
         "Clue Carre - Metairie": {            
@@ -20,8 +20,8 @@ def read_root():
             "Wed": 21,
             "Thu": 20,
             "Fri": 24,
-            "Sat": 11,
-            "Sun": 23
+            "Sat": 4,
+            "Sun": 22
         }
     }
     return data
