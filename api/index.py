@@ -20,8 +20,8 @@ def read_root():
             "Wed": 9,
             "Thu": 19,
             "Fri": 24,
-            "Sat": 23,
-            "Sun": 9
+            "Sat": 22,
+            "Sun": 24
         }
     }
     return data
