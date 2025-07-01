@@ -6,8 +6,8 @@ app = FastAPI()
 def read_root():
     data = {
         "Clue Carre - Downtown": {            
-            "Mon": 23,
-            "Tue": 27,
+            "Mon": 25,
+            "Tue": 24,
             "Wed": 28,
             "Thu": 28,
             "Fri": 31,
@@ -16,9 +16,9 @@ def read_root():
         },
         "Clue Carre - Metairie": {            
             "Mon": 21,
-            "Tue": 21,
+            "Tue": 17,
             "Wed": 9,
-            "Thu": 19,
+            "Thu": 18,
             "Fri": 24,
             "Sat": 22,
             "Sun": 24
