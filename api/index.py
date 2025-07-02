@@ -7,9 +7,9 @@ def read_root():
     data = {
         "Clue Carre - Downtown": {            
             "Mon": 25,
-            "Tue": 28,
+            "Tue": 27,
             "Wed": 28,
-            "Thu": 27,
+            "Thu": 24,
             "Fri": 30,
             "Sat": 29,
             "Sun": 30
@@ -20,7 +20,7 @@ def read_root():
             "Wed": 9,
             "Thu": 18,
             "Fri": 23,
-            "Sat": 22,
+            "Sat": 21,
             "Sun": 22
         }
     }
