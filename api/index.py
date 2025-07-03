@@ -9,19 +9,19 @@ def read_root():
             "Mon": 25,
             "Tue": 27,
             "Wed": 28,
-            "Thu": 24,
+            "Thu": 19,
             "Fri": 30,
-            "Sat": 29,
+            "Sat": 28,
             "Sun": 30
         },
         "Clue Carre - Metairie": {            
             "Mon": 21,
             "Tue": 21,
-            "Wed": 9,
-            "Thu": 18,
-            "Fri": 23,
-            "Sat": 21,
-            "Sun": 22
+            "Wed": 20,
+            "Thu": 13,
+            "Fri": 22,
+            "Sat": 20,
+            "Sun": 20
         }
     }
     return data
